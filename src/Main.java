@@ -56,9 +56,12 @@ public class Main {
     }
     */
 
+ /*
+    public static void divided() {
 
+}
 
-
+  */
 
     public static void main(String[] args) {
         BigInteger mult;
